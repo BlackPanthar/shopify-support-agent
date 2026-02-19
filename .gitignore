@@ -1,0 +1,7 @@
+# Never commit these — they contain secrets
+.env
+
+# Python virtual environment (huge folder, not needed in git)
+venv/
+__pycache__/
+*.pyc
