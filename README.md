@@ -2,7 +2,11 @@
 
 An AI-powered customer support agent built with LangChain and GPT-4o-mini. Handles order tracking, returns, and refunds through natural language conversation.
 
-## Demo
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/UF8Y1UgvT5g/maxresdefault.jpg)](https://www.youtube.com/watch?v=UF8Y1UgvT5g)
+
+## Example Interactions
 
 > "Where is order 1001?" → Agent fetches order status and tracking number
 > "Refund order 1002, wrong size" → Agent processes return and confirms
